@@ -1,0 +1,23 @@
+#t1 {
+margin-left: 10px;
+height:80%;
+width:55%;
+text-align:left;
+background-color:#EBF4FA;
+display:inline-table;
+}
+
+#t1 tr th{
+color:#cc0000;
+}
+#t2 {
+height:80%;
+width:30%;
+background-color:#EBF4FA;
+display: inline-table;
+text-align: left;
+}
+
+#t2 tr th{
+color:#cc0000;
+}
